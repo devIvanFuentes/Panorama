@@ -1,0 +1,706 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nord\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-04 12:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:292
+msgid "2"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:293
+msgid "3"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:294
+msgid "4"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:71
+msgid ""
+"<a href=\"https://www.youtube.com/watch?v=-UCHsqxBqwY\" target=\"_blank\">"
+"How to generate your api key ?</a>"
+msgstr ""
+
+#. Name of the template
+msgid "About Page Template"
+msgstr ""
+
+#. 1: dashboard link.
+#: fastwp-framework/core/tgmpa.php:131
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:238
+msgid "Author Website"
+msgstr ""
+
+#: 404.php:17
+msgid "Back to Home"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:118
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/tgmpa.php:108
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/tgmpa.php:113
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/redux.php:108
+msgid "Blog"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:118
+msgid "Blog Mini Title"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:113
+msgid "Blog Title"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:208
+msgid "Bottom Gallery"
+msgstr ""
+
+#: single.php:40
+msgid "By"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:59
+msgid "Cancel Reply"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:223
+#: fastwp-framework/theme/portfolio-templates/template_2.php:50
+#: fastwp-framework/theme/portfolio-templates/template_3.php:49
+#: fastwp-framework/theme/portfolio-templates/template_4.php:33
+#: fastwp-framework/theme/portfolio-templates/template_default.php:34
+msgid "Client"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed here."
+msgstr ""
+
+#. Name of the template
+msgid "Contact Page Template"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:376
+msgid "Content Title (left side of content)"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:160
+msgid "Copyright text"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:61
+msgid "Custom JS"
+msgstr ""
+
+#: single.php:43 fastwp-framework/core/redux.php:228
+#: fastwp-framework/theme/portfolio-templates/template_2.php:56
+#: fastwp-framework/theme/portfolio-templates/template_3.php:55
+#: fastwp-framework/theme/portfolio-templates/template_4.php:39
+#: fastwp-framework/theme/portfolio-templates/template_default.php:40
+msgid "Date"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:135 fastwp-framework/core/redux.php:185
+#: fastwp-framework/core/redux.php:195 fastwp-framework/theme/filters.php:183
+#: fastwp-framework/theme/filters.php:193
+msgid "Default"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:132
+msgid "Dismiss this notice"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:277
+msgid "Display these projects"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:138
+msgid "Edit"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:99
+msgid "Email"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:84
+msgid "Enable/Disable preloader."
+msgstr ""
+
+#: 404.php:14
+msgid "Error 404"
+msgstr ""
+
+#. Author of the theme
+msgid "FastWP"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:154
+msgid "Footer"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:165
+msgid "Footer Icons"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:159
+msgid "Footer Text"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:334
+msgid "Form Shortcode"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:197
+msgid "Full height"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:187
+msgid "Full width"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:209 fastwp-framework/core/redux.php:243
+msgid "Gallery"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:218
+msgid "Gallery & Info"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:305
+msgid "Gallery/Lightbox Style"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:45 fastwp-framework/core/redux.php:178
+msgid "General"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:70
+msgid "Google Maps API Key"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:304
+msgid "Grid Style"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:143
+msgid "Hide Date Info"
+msgstr ""
+
+#: header.php:35
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://fastwp.net/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://nord.fwp.fastwp.net/"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:166
+msgid "Icon | URL (example: fa fa-facebook | https://mywebsite.ext)"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:278
+msgid "If no projects checked, all will be included"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:193
+msgid "Image Height"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:183
+msgid "Image Width"
+msgstr ""
+
+#: single.php:41
+msgid "In"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:65
+msgid "Install Plugins"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:64
+msgid "Install Required Plugins"
+msgstr ""
+
+#. %s: plugin name.
+#: fastwp-framework/core/tgmpa.php:68
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:51
+msgid ""
+"It is meant to make your life easier by offering you options which will "
+"customize your website. Here you can set all general options that affects "
+"entire website."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:290
+msgid "Items Per Row"
+msgstr ""
+
+#: index.php:17
+msgid "Latest thoughts, ideas & plans."
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:57
+msgid "Leave a Reply"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:126
+msgid "Left"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:206
+msgid "Left Gallery"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:74
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:56
+msgid "Logo Text"
+msgstr ""
+
+#: functions.php:48
+msgid "Main menu"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:344
+msgid "Map Center"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:339
+msgid "Map Coordinates"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:311
+msgid "Margin"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:354
+msgid "Marker Content"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:349
+msgid "Marker Title"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:302
+msgid "Masonry"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:303
+msgid "Metro Style"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:136
+msgid "Minimal"
+msgstr ""
+
+#: comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: navigation.php:14
+msgid "Next Page"
+msgstr ""
+
+#: single.php:77 fastwp-framework/theme/main.php:56
+msgid "Next Post"
+msgstr ""
+
+#: fastwp-framework/theme/portfolio-templates/template_2.php:90
+#: fastwp-framework/theme/portfolio-templates/template_3.php:88
+#: fastwp-framework/theme/portfolio-templates/template_4.php:88
+#: fastwp-framework/theme/portfolio-templates/template_5.php:38
+#: fastwp-framework/theme/portfolio-templates/template_default.php:91
+msgid "Next Project"
+msgstr ""
+
+#. 1: plugin name.
+#: fastwp-framework/core/tgmpa.php:127
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:125
+msgid "No Sidebar"
+msgstr ""
+
+#. Name of the theme
+msgid "Nord"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Nord is a powerful, feature-rich theme that lets you customize the website "
+"from your Dashboard."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:386
+msgid "Nord Options"
+msgstr ""
+
+#: functions.php:131
+msgid "Nord Widgets"
+msgstr ""
+
+#. Name of the template
+msgid "Normal Page Template"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! Page not found."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:395 fastwp-framework/core/redux.php:405
+#: fastwp-framework/core/redux.php:415
+msgid "Options"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:284
+msgid "Or include projects by id"
+msgstr ""
+
+#: index.php:16
+msgid "Our Blog"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:272 fastwp-framework/core/redux.php:329
+#: fastwp-framework/core/redux.php:371
+msgid "Page Subtitle"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:267 fastwp-framework/core/redux.php:324
+#: fastwp-framework/core/redux.php:366
+msgid "Page Title"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:62
+msgid ""
+"Paste your JavaScript code here. Use this field to quickly add JS code "
+"snippets."
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:138
+msgid "Pingback:"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:134
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:124
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: fastwp-framework/core/tgmpa.php:129
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:95
+msgid "Portfolio"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:101
+msgid "Portfolio Slug"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio Template"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:180
+msgid "Portfolio Template Height"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:190
+msgid "Portfolio Template Width"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:60
+msgid "Post Comment"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:133
+msgid "Posts Layout"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:78
+msgid "Preloader Options"
+msgstr ""
+
+#: navigation.php:13
+msgid "Prev Page"
+msgstr ""
+
+#: single.php:72
+msgid "Prev Post"
+msgstr ""
+
+#: fastwp-framework/theme/portfolio-templates/template_2.php:85
+#: fastwp-framework/theme/portfolio-templates/template_3.php:83
+#: fastwp-framework/theme/portfolio-templates/template_4.php:83
+#: fastwp-framework/theme/portfolio-templates/template_5.php:33
+#: fastwp-framework/theme/portfolio-templates/template_default.php:86
+msgid "Prev Project"
+msgstr ""
+
+#: fastwp-framework/theme/main.php:53
+msgid "Previous Post"
+msgstr ""
+
+#: fastwp-framework/theme/portfolio-templates/template_2.php:45
+#: fastwp-framework/theme/portfolio-templates/template_3.php:44
+#: fastwp-framework/theme/portfolio-templates/template_4.php:28
+#: fastwp-framework/theme/portfolio-templates/template_default.php:29
+msgid "Project Info"
+msgstr ""
+
+#: loop-minimal.php:42 loop.php:40
+msgid "Read more"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:151
+msgid "Reply"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:123
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:127
+msgid "Right"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:205
+msgid "Right Gallery"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:233
+#: fastwp-framework/theme/portfolio-templates/template_2.php:62
+#: fastwp-framework/theme/portfolio-templates/template_3.php:61
+#: fastwp-framework/theme/portfolio-templates/template_4.php:45
+#: fastwp-framework/theme/portfolio-templates/template_default.php:46
+msgid "Role"
+msgstr ""
+
+#: template-contact.php:46
+msgid "Send us a Message"
+msgstr ""
+
+#: fastwp-framework/shortcodes/Portfolio.php:203
+msgid "Show All"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:83
+msgid "Show preloader"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:144
+msgid "Shows or hides the date information on single."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:123
+msgid "Sidebar"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:71
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: loop-minimal.php:57 loop.php:53 page.php:54
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:300
+msgid "Style"
+msgstr ""
+
+#: single.php:54
+msgid "Tags: "
+msgstr ""
+
+#: fastwp-framework/core/redux.php:196 fastwp-framework/theme/filters.php:184
+msgid "Tall"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:203
+msgid "Template"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:84
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/tgmpa.php:125
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:102
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/tgmpa.php:96
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/redux.php:437 fastwp-framework/core/redux.php:438
+msgid "Theme Options"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:133
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:90
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/redux.php:285
+msgid "This option will override the previous option if is not empty"
+msgstr ""
+
+#: fastwp-framework/core/tgmpa.php:78
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/tgmpa.php:72
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: fastwp-framework/core/redux.php:246
+msgid "Title"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:207
+msgid "Top Gallery"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:21
+msgid "Type &amp; Hit Enter"
+msgstr ""
+
+#. %s: plugin name.
+#: fastwp-framework/core/tgmpa.php:70
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:244
+msgid "Upload images or add from media library."
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:104
+msgid "URL"
+msgstr ""
+
+#: fastwp-framework/theme/portfolio-templates/template_2.php:69
+#: fastwp-framework/theme/portfolio-templates/template_3.php:68
+#: fastwp-framework/theme/portfolio-templates/template_4.php:52
+#: fastwp-framework/theme/portfolio-templates/template_default.php:53
+msgid "View site"
+msgstr ""
+
+#: fastwp-framework/core/redux.php:50
+msgid "Welcome to Nord Options Panel."
+msgstr ""
+
+#: fastwp-framework/core/redux.php:186 fastwp-framework/theme/filters.php:194
+msgid "Wide"
+msgstr ""
+
+#: functions.php:133
+msgid "Widgets used in Nord theme"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:68
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:64
+msgid "Your Comment"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:84
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: fastwp-framework/theme/filters.php:94
+msgid "Your Name"
+msgstr ""
