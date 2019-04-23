@@ -2,3 +2,237 @@
 Theme Name: Nord Child
 Template: Nord
 */
+
+/*FUENTES */
+
+body{
+	background:red !important;
+}
+
+
+@font-face{
+	font-family: "Grafier Regular Text";
+	src:url(../fonts/Grafier-RegularText.otf);
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Grafier Regular Text";
+}
+
+
+.header__panorama{
+	width: 100%;
+	height: 100vh;
+	overflow: hidden;
+	position: relative;
+	background-image: url('../img/rayo_white_c.gif');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+
+.header__panorama__copy{
+	position: absolute;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Grafier Regular Text';
+	color: #fff;
+	line-height: 1.5em;
+}
+
+.navegacion{
+	width: 90%;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.navegacion__logo, .navegacion__menu{
+	width: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	cursor: pointer;
+}
+
+.navegacion__logo{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.navegacion__menu{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.navegacion__logo img{
+	width: 150px;
+	max-height: 50px;
+}
+
+.navegacion__menu img{
+	width: 20px;
+	height: 50px;
+	
+}
+
+.about{
+	background: #000;
+	color: #fff;
+	padding:50px 0;
+}
+
+.about h2{
+
+	font-size: 32px;
+	line-height: 1.5em;
+}
+
+.about p{
+	font-size: 16px;
+}
+
+.pnrm__link{
+
+	color: #fff;
+	border-bottom: solid 2px #ffe371;
+	text-decoration: none;
+
+}
+
+.pnrm__link:hover{
+	text-decoration: none;
+}
+
+.menu__principal{
+	width: 100%;
+	height: 100vh;
+	position: fixed;
+	background: rgba(0,0,0,0.9);
+	z-index: 2;
+	display: none;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.menu__principal nav{
+	background: #fff;
+	color: #000;
+	width: 30%;
+	height: 100vh;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.menu__close{
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	align-self: flex-start;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.menu__principal nav ul{
+	list-style: none;
+	line-height: 2em;
+	width: 100%;
+	margin-top: -80%;
+
+}
+
+.menu__principal nav a{
+	color: #000;
+	text-decoration: none;
+}
+
+.menu__principal nav a:hover{
+	border-bottom: solid 2px #ffe371;
+	text-decoration: none;
+}
+
+.owl-caraousel .animated { 
+  animation-duration: 1000ms !important;
+  animation-fill-mode: both !important; }
+
+
+
+  /*
+	********** RESPONSIVE ***********
+  */
+
+
+@media only screen and (max-width: 1024px){
+	.header__panorama__copy{
+		font-size: 45px;
+	}
+}
+
+@media only screen and (max-width: 768px){
+	.header__panorama__copy{
+		font-size: 40px;
+	}
+
+	.navegacion__logo img{
+		width: 100px;
+		max-height: 40px;
+	}
+
+	.navegacion__menu img{
+		width: 10px;
+		height: 30px;
+		
+	}
+
+	.menu__principal nav{
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 480px){
+	.header__panorama__copy{
+		font-size: 28px;
+	}
+
+	.navegacion__logo img{
+		width: 100px;
+		max-height: 40px;
+	}
+
+	.navegacion__menu img{
+		height: 30px;
+		
+	}
+}
+
+@media only screen and (max-width: 320px){
+	
+	.header__panorama__copy{
+		font-size: 18px;
+	}
+	
+
+
+}
+
+
+
+
+
+
+
+
