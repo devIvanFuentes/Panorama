@@ -12,9 +12,8 @@
 			wp_enqueue_style( 'pnrm_custom', get_stylesheet_directory_uri().'/css/main.css', array(), false, 'all' );
 			wp_enqueue_style( 'ed-grid', get_stylesheet_directory_uri().'/css/ed-grid.min.css', array(), false, 'all' );
 			
-			wp_enqueue_style( 'owl-css', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css', array(), false, 'all' );
-			wp_enqueue_script( 'owl', 'https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js', array('jquery'), false, true );
-			wp_enqueue_script( 'slider', get_stylesheet_directory_uri().'/js/slider.js', array('jquery','owl'), false, true );
+			
+			wp_enqueue_script( 'slider', get_stylesheet_directory_uri().'/js/slider.js', array('jquery'), false, true );
 			wp_enqueue_script( 'main-js', get_stylesheet_directory_uri().'/js/main.js', array('jquery'), false, true );
 		else:
 			wp_enqueue_style( 'pnrm_custom', get_stylesheet_directory_uri().'/css/main.css', array(), false, 'all' );

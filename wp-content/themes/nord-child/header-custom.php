@@ -37,55 +37,20 @@ fastwp_nord_theme\options::get_body_class();
         <?php 
             get_template_part( 'template-parts/content', 'header' );
          ?>
-        <div class="header__panorama__copy owl-carousel">
+        <div class="header__panorama__copy ">
+            
             <div>
                 <p>
-                    Generamos cultura <br>
+                    <span class="quotes">Generamos cultura</span>
+                    <span class="quotes">Resolvemos problemas</span>
+                    <span class="quotes">Empoderamos proyectos</span>
+                    <span class="quotes">Generamos cultura</span>
+                    <span class="quotes">Impactamos mercados</span>
+                    <span class="quotes">Cambiamos comportamientos</span>
                     a través de la <br>
                     influencia e identidad.
                 </p>
             </div>
-
-            <div>
-                <p>
-                    Resolvemos problemas <br>
-                    a través de la <br>
-                    influencia e identidad.
-                </p>
-            </div>
-
-            <div>
-                <p>
-                    Empoderamos proyectos <br>
-                    a través de la <br>
-                    influencia e identidad.
-                </p>
-            </div>
-
-            <div>
-                <p>
-                    Generamos cultura <br>
-                    a través de la <br>
-                    influencia e identidad.
-                </p>
-            </div>
-
-            <div>
-                <p>
-                    Impactamos mercados <br>
-                    a través de la <br>
-                    influencia e identidad.
-                </p>
-            </div>
-
-            <div>
-                <p>
-                    Cambiamos comportamientos <br>
-                    a través de la <br>
-                    influencia e identidad.
-                </p>
-            </div>
-
 
         </div>
     </header>

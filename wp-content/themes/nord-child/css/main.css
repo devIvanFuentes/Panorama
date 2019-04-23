@@ -1,4 +1,7 @@
 /*FUENTES */
+.quotes{
+	display: none;
+}
 
 @font-face{
 	font-family: "Grafier Regular Text";
